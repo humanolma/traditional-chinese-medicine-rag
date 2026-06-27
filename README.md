@@ -189,11 +189,7 @@ python run.py
 3. **非中医问题拦截**：当 `source_nodes` 为空或 `top_score < 0.4` 时拒绝回答
 4. **中文Prompt定制**：完全替换LlamaIndex默认英文模板，提升中文回答质量
 
-## 📸 界面预览
 
-<p align="center">
-  <i>（添加你的应用截图到这里）</i>
-</p>
 
 ## 📚 相关文档
 
