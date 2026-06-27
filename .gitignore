@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+venv/
+env/
+ENV/
+.venv
+
+# 环境变量
+.env
+.env.*
+
+# 不在白名单中的环境变量文件
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# 向量索引（不提交到 Git）
+docs_emb/
+doc_emb/
+*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Streamlit
+.streamlit/secrets.toml
+
+# 临时文件
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# 编译文件
+*.pyc
+*.so
+*.dll
+*.exe
+
+# 测试覆盖率
+.coverage
+htmlcov/
+.pytest_cache/
+
+# 构建目录
+build/
+dist/
+*.egg-info/
