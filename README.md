@@ -186,8 +186,6 @@ python run.py
 
 
 ## 📚 相关文档
-
-- [项目彻底理解指南](./项目彻底理解指南.md) - 面试准备核心文档
 - [LlamaIndex 官方文档](https://docs.llamaindex.ai/)
 - [DashScope 阿里百炼文档](https://help.aliyun.com/zh/dashscope/)
 
