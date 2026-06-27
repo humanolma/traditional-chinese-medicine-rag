@@ -24,12 +24,6 @@
 - 🖥️ **Streamlit交互界面** - 简洁美观的Web UI，支持示例问题、评估开关等功能
 - 🛡️ **非中医问题拦截** - 自动识别并拦截与中医无关的查询
 
-## 🏗️ 系统架构
-
-<p align="center">
-  <img src="assets/rag-1.png" alt="Indexing" width="45%">
-  <img src="assets/rag-2.png" alt="Retrieval" width="45%">
-</p>
 
 ### RAG 工作流程
 
