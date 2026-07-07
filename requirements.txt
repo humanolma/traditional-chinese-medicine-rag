@@ -1,0 +1,5 @@
+llama-index>=0.10.0
+llama-index-llms-dashscope>=0.1.0
+llama-index-embeddings-dashscope>=0.1.0
+streamlit>=1.30.0
+pyyaml>=6.0
